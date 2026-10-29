@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Text+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 BowPad Free Installer** — BowPad is a free, lightweight text editor for Windows with a ribbon interface and support for multiple coding languages. Works without internet access, no account required. Full offline installation.
+**💻 BowPad Free Installer** — BowPad is a free, open-source code editor for Windows with a ribbon-style interface inspired by Microsoft Office. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About BowPad
 
-BowPad is a free, lightweight text editor for Windows with a ribbon interface and support for multiple coding languages. It offers a modern look with tabs, syntax highlighting, and a simple plugin system — positioned as a more polished Notepad replacement.
+BowPad is a free, open-source code editor for Windows with a ribbon-style interface inspired by Microsoft Office. Supports syntax highlighting for dozens of programming languages, custom lexers, and a simple plugin system. BowPad stores its configuration in a simple INI file, making it portable and easy to configure. Its lightweight design makes it a fast alternative for quick code editing tasks.
 
 ---
 
 ## ❌ Problem: BowPad is hard to access
 
-- **Windows Only** — Not available on macOS or Linux
-- **Ribbon Interface** — Some users dislike the Office-style ribbon for a text editor
-- **Small Plugin Ecosystem** — Fewer extensions than mainstream editors
-- **Basic Feature Set** — Missing advanced refactoring and IDE features
+- **Windows Only** — No cross-platform support
+- **Feature Set** — Less feature-rich than major code editors like VS Code
+- **Ribbon Interface** — Office-style ribbon may not appeal to all developers
+- **Extension Ecosystem** — Limited plugin selection compared to mainstream editors
 
 ---
 
@@ -121,7 +121,7 @@ BowPad is a free, lightweight text editor for Windows with a ribbon interface an
 
 ---
 
-**BowPad Free Installer** — BowPad is a free, lightweight text editor for Windows with a ribbon interface and support for multiple coding languages. Install without internet connection today!
+**BowPad Free Installer** — BowPad is a free, open-source code editor for Windows with a ribbon-style interface inspired by Microsoft Office. Install without internet connection today!
 
 <div align="center">
 
